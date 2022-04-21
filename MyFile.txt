@@ -7,4 +7,6 @@ Doing some long feature work
 
 More feature wokr!
 
-And MUST BE FIXED some last bits
+And finally some THIS IS DIFFERENT NOW bits
+
+This work is vital
