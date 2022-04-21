@@ -1,7 +1,6 @@
 Initial Commit!
-
-
 These are changes from my branch
-
-
 And here is some feature work
+
+
+Doing some long feature work
